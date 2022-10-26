@@ -7,7 +7,7 @@
 
 **Kelas : TI.22.A1**
 
-#### Install Python
+### Install Python
 1. donwload pyhton pada web resmi python https://www.python.org/ dengan menyesuaikan OS dari versi masing masing.
 
 ![python1](https://user-images.githubusercontent.com/115804283/197999031-06e5bcb0-045f-4be1-9ab9-f783aac58e23.png)
@@ -29,7 +29,7 @@
 ![python4](https://user-images.githubusercontent.com/115804283/197999615-95de96aa-c3cc-4d28-921a-17d40081e697.png)
 
 
-#### Latihan 1
+## Latihan 1
 
 ----------
 
@@ -52,7 +52,7 @@
 
 • Maka di layar kalian akan tampil seperti gambar diatas.
 
-#### Latihan 2
+## Latihan 2
 
 -----
 
@@ -76,7 +76,7 @@
 
 • Jika kalian berhasil maka akan muncul seperti gambar diatas.
 
-#### Latihan 3
+## Latihan 3
 
 -------
 
